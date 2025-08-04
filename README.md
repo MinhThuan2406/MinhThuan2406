@@ -20,13 +20,13 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Celsius06&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Celsius06&theme=nightowl&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Celsius06&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=MinhThuan2406&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MinhThuan2406&theme=nightowl&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhThuan2406&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Celsius06&theme=midnight-purple&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=MinhThuan2406&theme=midnight-purple&no-frame=true&no-bg=true&margin-w=4)
 
 
 ### ✍️ Random Dev Quote
@@ -34,7 +34,7 @@
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Celsius06&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=MinhThuan2406&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 ---
