@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8b5cf6,50:6d28d9,100:22d3ee&height=200&section=header&text=Nguyen%20Minh%20Thuan&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20RAG%20%C2%B7%20Agentic%20AI%20%C2%B7%20LLMOps&descSize=16&descAlignY=62" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:6d28d9,100:22d3ee&height=220&section=header&text=Nguyen%20Minh%20Thuan&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20RAG%20%C2%B7%20Agentic%20AI%20%C2%B7%20LLMOps&descSize=16&descAlignY=58" width="100%" alt="Header Banner" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Don't+just+prompt+an+LLM.;Build+the+harness.;Ground+the+data.;Evaluate+the+trade-offs." alt="Core Philosophy" /></a>
 
@@ -96,6 +96,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:22d3ee&height=100&section=footer" alt="Footer Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:22d3ee&height=100&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
