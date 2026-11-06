@@ -87,12 +87,12 @@
 
 <br/><br/>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=MinhThuan2406&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+<img height="150" src="https://github-stats-extended.vercel.app/api?username=MinhThuan2406&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
 <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=MinhThuan2406&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=MinhThuan2406&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%" alt="GitHub Trophies" />
+<img src="https://github-trophies.vercel.app/?username=MinhThuan2406&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%" alt="GitHub Trophies" />
 
 <br/>
 
